@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MemoStock</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">sj4gzo3AD7o-svonj9Z0ye2mdL9N5Ff8IZryJ</string>
+</resources>

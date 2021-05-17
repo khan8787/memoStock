@@ -1,0 +1,6 @@
+module Pods_MemoStock {
+  umbrella header "Pods-MemoStock-umbrella.h"
+
+  export *
+  module * { export * }
+}

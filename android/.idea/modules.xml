@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MemoStock.iml" filepath="$PROJECT_DIR$/.idea/modules/MemoStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoStock.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoStock.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1715465914/MemoStock.react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/1715465914/MemoStock.react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/514028870/MemoStock.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/514028870/MemoStock.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/616132035/MemoStock.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/616132035/MemoStock.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1193751321/MemoStock.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1193751321/MemoStock.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-490537868/MemoStock.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-490537868/MemoStock.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1519024503/MemoStock.react-native-mail.iml" filepath="$PROJECT_DIR$/.idea/modules/-1519024503/MemoStock.react-native-mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1538610904/MemoStock.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1538610904/MemoStock.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1690879965/MemoStock.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1690879965/MemoStock.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1638262837/MemoStock.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1638262837/MemoStock.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/90487744/MemoStock.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/90487744/MemoStock.react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>
